@@ -1,0 +1,13 @@
+# .gitignore
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# OS junk
+.DS_Store
+
+# Project outputs
+outputs/
